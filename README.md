@@ -8,5 +8,4 @@ Collecting Space Debris
 ![画面イメージ](docs/images/game_image01.png)
 
 ## 操作説明
-例
 - WASDで移動(矢印キーは使えない)
